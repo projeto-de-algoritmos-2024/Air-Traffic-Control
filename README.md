@@ -23,13 +23,8 @@ Temas:
 Esse projeto visa aplicar os conceitos de grafos1 ministrados em sala de aula, foi utilizado algoritmos de busca em profundidade para simular uma rede de conexões em uma rede social. 
 
 ## Screenshots
-![Screenshot 1]()
-![Screenshot 2]()
-![Screenshot 3]()
-![Screenshot 4]()
-![Screenshot 5]()
-
-
+![Screenshot 1](../print-1)
+![Screenshot 2](../print-2)
 
 
 ## Instalação 
